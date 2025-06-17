@@ -538,7 +538,7 @@ table {
     fill: #8B0000;
 }
 .seat.spd {
-    fill: #E3000F;
+    fill: #ba252f;
     stroke: var(--border-color);
     stroke-width: 1.5px;
 }
@@ -555,7 +555,7 @@ table {
     fill: #D5AC27;
 }
 .seat.other {
-    fill: #909090;
+    fill: #5ea9e6;
 }
 .seat.dnvp {
     fill: #3F7BC1;
